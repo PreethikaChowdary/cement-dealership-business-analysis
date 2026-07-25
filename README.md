@@ -27,7 +27,7 @@ The complete project documentation can be found in the `docs` folder.
 - Proposal Report
 - Midterm Report
 - Final Report
-- 
+  
 ## 🛠 Skills Demonstrated
 
 Throughout this project, the following business analytics and problem-solving skills were applied:
