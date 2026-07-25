@@ -19,3 +19,25 @@ Multiple business analytics techniques were applied throughout the project. **De
 Based on the analytical findings, the project proposed practical business recommendations to improve operational efficiency and long-term sustainability. These recommendations included transportation cost optimisation through electric vehicle adoption, strategies to reduce credit and payment risks using digital invoicing and customer segmentation, improved inventory planning based on seasonal demand trends, operational improvements to address labour shortages, and environmentally sustainable practices to minimise the impact of cement dust.
 
 Overall, this project demonstrates the complete application of business analytics—from problem identification and primary data collection to data preparation, statistical analysis, business interpretation, and strategic decision-making—to solve real-world business challenges using data-driven methodologies.
+## 🛠 Skills Demonstrated
+
+Throughout this project, the following business analytics and problem-solving skills were applied:
+
+- Business Analytics
+- Business Analysis
+- Business Strategy
+- Primary Data Collection
+- Data Cleaning
+- Data Preprocessing
+- Microsoft Excel
+- Pivot Tables
+- Descriptive Statistics
+- Diagnostic Analysis
+- Trend Analysis
+- Data Visualization
+- Business Intelligence
+- Root Cause Analysis
+- Data Interpretation
+- Decision Making
+- Business Consulting
+- Report Writing
